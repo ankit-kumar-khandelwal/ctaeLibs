@@ -6,6 +6,17 @@ export default class Sem4 extends Component {
     render() {
         return (
             <div>
+                <div>
+                <a href="https://drive.google.com/drive/folders/1IMClIhFJTsUtyFxbMgsY4SrnodoGqAFw?usp=sharing" target="_blank">
+                <Card bg="danger" className="mb-2" style={{color:"white",textAlign:"center",width:"400px",marginLeft:"500px"}}>
+                                <Card.Body>
+                                    <Card.Title>
+                                    SEM-4 WHOLE MATERIAL AT ONE PLACE
+                                    </Card.Title>
+                                </Card.Body>
+                            </Card>
+                            </a>
+                </div>
                 {m3.map((item,index)=>{
                 
                 return( 
