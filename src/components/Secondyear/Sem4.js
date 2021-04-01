@@ -8,7 +8,7 @@ export default class Sem4 extends Component {
             <div>
                 <div>
                 <a href="https://drive.google.com/drive/folders/1IMClIhFJTsUtyFxbMgsY4SrnodoGqAFw?usp=sharing" target="_blank">
-                <Card bg="danger" className="mb-2" style={{color:"white",textAlign:"center",width:"400px",marginLeft:"500px"}}>
+                <Card bg="danger" className="mb-2" style={{color:"white",textAlign:"center"}}>
                                 <Card.Body>
                                     <Card.Title>
                                     SEM-4 WHOLE MATERIAL AT ONE PLACE
